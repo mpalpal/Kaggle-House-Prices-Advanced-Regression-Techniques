@@ -106,6 +106,6 @@ Download the dataset from Kaggle:
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
-#### Kaggle Notebook: https:
+Kaggle Notebook:
 
 https://www.kaggle.com/code/harukimurai/house-prices-advanced-regression-techniques
